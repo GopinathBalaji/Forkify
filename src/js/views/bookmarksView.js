@@ -1,5 +1,5 @@
 import View from './View.js';
-import previewView from './PreviewView.js';
+import previewView from './previewView.js';
 import icons from 'url:../../img/icons.svg';
 import { Fraction } from 'fractional';
 
